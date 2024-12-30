@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "o/9vanq57gMyu/3SeBGQYqFmtt+krXi4YVgKuUzPNgM=",
+  "Source": "FirstAITool.API.WebAPI",
+  "BasePath": "_content/FirstAITool.API.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

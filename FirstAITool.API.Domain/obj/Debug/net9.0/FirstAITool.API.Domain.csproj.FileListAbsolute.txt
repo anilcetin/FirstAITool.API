@@ -1,0 +1,11 @@
+C:\Users\37420058076\source\anilrepos\ProductAI\FirstAITool.API\FirstAITool.API.Domain\bin\Debug\net9.0\FirstAITool.API.Domain.deps.json
+C:\Users\37420058076\source\anilrepos\ProductAI\FirstAITool.API\FirstAITool.API.Domain\bin\Debug\net9.0\FirstAITool.API.Domain.dll
+C:\Users\37420058076\source\anilrepos\ProductAI\FirstAITool.API\FirstAITool.API.Domain\bin\Debug\net9.0\FirstAITool.API.Domain.pdb
+C:\Users\37420058076\source\anilrepos\ProductAI\FirstAITool.API\FirstAITool.API.Domain\obj\Debug\net9.0\FirstAITool.API.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\37420058076\source\anilrepos\ProductAI\FirstAITool.API\FirstAITool.API.Domain\obj\Debug\net9.0\FirstAITool.API.Domain.AssemblyInfoInputs.cache
+C:\Users\37420058076\source\anilrepos\ProductAI\FirstAITool.API\FirstAITool.API.Domain\obj\Debug\net9.0\FirstAITool.API.Domain.AssemblyInfo.cs
+C:\Users\37420058076\source\anilrepos\ProductAI\FirstAITool.API\FirstAITool.API.Domain\obj\Debug\net9.0\FirstAITool.API.Domain.csproj.CoreCompileInputs.cache
+C:\Users\37420058076\source\anilrepos\ProductAI\FirstAITool.API\FirstAITool.API.Domain\obj\Debug\net9.0\FirstAITool.API.Domain.dll
+C:\Users\37420058076\source\anilrepos\ProductAI\FirstAITool.API\FirstAITool.API.Domain\obj\Debug\net9.0\refint\FirstAITool.API.Domain.dll
+C:\Users\37420058076\source\anilrepos\ProductAI\FirstAITool.API\FirstAITool.API.Domain\obj\Debug\net9.0\FirstAITool.API.Domain.pdb
+C:\Users\37420058076\source\anilrepos\ProductAI\FirstAITool.API\FirstAITool.API.Domain\obj\Debug\net9.0\ref\FirstAITool.API.Domain.dll

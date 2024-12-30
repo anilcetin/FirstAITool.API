@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\FirstAITool.API.WebAPI.props" />
+</Project>

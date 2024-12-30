@@ -1,0 +1,15 @@
+C:\Users\37420058076\source\anilrepos\ProductAI\FirstAITool.API\FirstAITool.API.Application\obj\Debug\net9.0\FirstAITool.API.Application.csproj.AssemblyReference.cache
+C:\Users\37420058076\source\anilrepos\ProductAI\FirstAITool.API\FirstAITool.API.Application\obj\Debug\net9.0\FirstAITool.API.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\37420058076\source\anilrepos\ProductAI\FirstAITool.API\FirstAITool.API.Application\obj\Debug\net9.0\FirstAITool.API.Application.AssemblyInfoInputs.cache
+C:\Users\37420058076\source\anilrepos\ProductAI\FirstAITool.API\FirstAITool.API.Application\obj\Debug\net9.0\FirstAITool.API.Application.AssemblyInfo.cs
+C:\Users\37420058076\source\anilrepos\ProductAI\FirstAITool.API\FirstAITool.API.Application\obj\Debug\net9.0\FirstAITool.API.Application.csproj.CoreCompileInputs.cache
+C:\Users\37420058076\source\anilrepos\ProductAI\FirstAITool.API\FirstAITool.API.Application\bin\Debug\net9.0\FirstAITool.API.Application.deps.json
+C:\Users\37420058076\source\anilrepos\ProductAI\FirstAITool.API\FirstAITool.API.Application\bin\Debug\net9.0\FirstAITool.API.Application.dll
+C:\Users\37420058076\source\anilrepos\ProductAI\FirstAITool.API\FirstAITool.API.Application\bin\Debug\net9.0\FirstAITool.API.Application.pdb
+C:\Users\37420058076\source\anilrepos\ProductAI\FirstAITool.API\FirstAITool.API.Application\bin\Debug\net9.0\FirstAITool.API.Domain.dll
+C:\Users\37420058076\source\anilrepos\ProductAI\FirstAITool.API\FirstAITool.API.Application\bin\Debug\net9.0\FirstAITool.API.Domain.pdb
+C:\Users\37420058076\source\anilrepos\ProductAI\FirstAITool.API\FirstAITool.API.Application\obj\Debug\net9.0\FirstAIT.48573954.Up2Date
+C:\Users\37420058076\source\anilrepos\ProductAI\FirstAITool.API\FirstAITool.API.Application\obj\Debug\net9.0\FirstAITool.API.Application.dll
+C:\Users\37420058076\source\anilrepos\ProductAI\FirstAITool.API\FirstAITool.API.Application\obj\Debug\net9.0\refint\FirstAITool.API.Application.dll
+C:\Users\37420058076\source\anilrepos\ProductAI\FirstAITool.API\FirstAITool.API.Application\obj\Debug\net9.0\FirstAITool.API.Application.pdb
+C:\Users\37420058076\source\anilrepos\ProductAI\FirstAITool.API\FirstAITool.API.Application\obj\Debug\net9.0\ref\FirstAITool.API.Application.dll

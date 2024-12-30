@@ -1,0 +1,17 @@
+C:\Users\37420058076\source\anilrepos\ProductAI\FirstAITool.API\FirstAITool.API.Infrastructure\bin\Debug\net9.0\FirstAITool.API.Infrastructure.deps.json
+C:\Users\37420058076\source\anilrepos\ProductAI\FirstAITool.API\FirstAITool.API.Infrastructure\bin\Debug\net9.0\FirstAITool.API.Infrastructure.dll
+C:\Users\37420058076\source\anilrepos\ProductAI\FirstAITool.API\FirstAITool.API.Infrastructure\bin\Debug\net9.0\FirstAITool.API.Infrastructure.pdb
+C:\Users\37420058076\source\anilrepos\ProductAI\FirstAITool.API\FirstAITool.API.Infrastructure\bin\Debug\net9.0\FirstAITool.API.Application.dll
+C:\Users\37420058076\source\anilrepos\ProductAI\FirstAITool.API\FirstAITool.API.Infrastructure\bin\Debug\net9.0\FirstAITool.API.Domain.dll
+C:\Users\37420058076\source\anilrepos\ProductAI\FirstAITool.API\FirstAITool.API.Infrastructure\bin\Debug\net9.0\FirstAITool.API.Application.pdb
+C:\Users\37420058076\source\anilrepos\ProductAI\FirstAITool.API\FirstAITool.API.Infrastructure\bin\Debug\net9.0\FirstAITool.API.Domain.pdb
+C:\Users\37420058076\source\anilrepos\ProductAI\FirstAITool.API\FirstAITool.API.Infrastructure\obj\Debug\net9.0\FirstAITool.API.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\37420058076\source\anilrepos\ProductAI\FirstAITool.API\FirstAITool.API.Infrastructure\obj\Debug\net9.0\FirstAITool.API.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\37420058076\source\anilrepos\ProductAI\FirstAITool.API\FirstAITool.API.Infrastructure\obj\Debug\net9.0\FirstAITool.API.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\37420058076\source\anilrepos\ProductAI\FirstAITool.API\FirstAITool.API.Infrastructure\obj\Debug\net9.0\FirstAITool.API.Infrastructure.AssemblyInfo.cs
+C:\Users\37420058076\source\anilrepos\ProductAI\FirstAITool.API\FirstAITool.API.Infrastructure\obj\Debug\net9.0\FirstAITool.API.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\37420058076\source\anilrepos\ProductAI\FirstAITool.API\FirstAITool.API.Infrastructure\obj\Debug\net9.0\FirstAIT.D8CEEE6B.Up2Date
+C:\Users\37420058076\source\anilrepos\ProductAI\FirstAITool.API\FirstAITool.API.Infrastructure\obj\Debug\net9.0\FirstAITool.API.Infrastructure.dll
+C:\Users\37420058076\source\anilrepos\ProductAI\FirstAITool.API\FirstAITool.API.Infrastructure\obj\Debug\net9.0\refint\FirstAITool.API.Infrastructure.dll
+C:\Users\37420058076\source\anilrepos\ProductAI\FirstAITool.API\FirstAITool.API.Infrastructure\obj\Debug\net9.0\FirstAITool.API.Infrastructure.pdb
+C:\Users\37420058076\source\anilrepos\ProductAI\FirstAITool.API\FirstAITool.API.Infrastructure\obj\Debug\net9.0\ref\FirstAITool.API.Infrastructure.dll
