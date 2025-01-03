@@ -13,3 +13,4 @@ C:\Users\37420058076\source\anilrepos\ProductAI\FirstAITool.API\FirstAITool.API.
 C:\Users\37420058076\source\anilrepos\ProductAI\FirstAITool.API\FirstAITool.API.Application\obj\Debug\net9.0\refint\FirstAITool.API.Application.dll
 C:\Users\37420058076\source\anilrepos\ProductAI\FirstAITool.API\FirstAITool.API.Application\obj\Debug\net9.0\FirstAITool.API.Application.pdb
 C:\Users\37420058076\source\anilrepos\ProductAI\FirstAITool.API\FirstAITool.API.Application\obj\Debug\net9.0\ref\FirstAITool.API.Application.dll
+C:\Users\37420058076\source\anilrepos\ProductAI\FirstAITool.API\FirstAITool.API.Application\obj\Debug\net9.0\FirstAITool.API.Application.sourcelink.json
