@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FirstAITool.API.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+83577001a638746637f08efa0f5ef92d9163939f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5be7a5d49269698fbbcc2ac6bc16fbf6be2514b6")]
 [assembly: System.Reflection.AssemblyProductAttribute("FirstAITool.API.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FirstAITool.API.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
