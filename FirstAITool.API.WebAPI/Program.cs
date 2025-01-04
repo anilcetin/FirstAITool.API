@@ -2,11 +2,14 @@ using FirstAITool.API.Application.Interfaces;
 using FirstAITool.API.Application.Services;
 using FirstAITool.API.Infrastructure.Data;
 using FirstAITool.API.Infrastructure.Repositories;
+using FirstAITool.API.SemanticKernel.Configuration;
+using FirstAITool.API.SemanticKernel.Interfaces;
+using FirstAITool.API.SemanticKernel.Services;
+using FirstAITool.API.SemanticKernel.Plugins;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
 using System.Text;
-using Microsoft.OpenApi.Models;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -43,9 +46,19 @@ builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
         };
     });
 
+// Configure Semantic Kernel
+builder.Services.AddSingleton(sp =>
+{
+    var config = new SemanticKernelSettings();
+    builder.Configuration.GetSection("SemanticKernel").Bind(config);
+    return config;
+});
+
 // Register Services
 builder.Services.AddScoped<IUserRepository, UserRepository>();
 builder.Services.AddScoped<IAuthService, AuthService>();
+builder.Services.AddScoped<ISemanticKernelService, SemanticKernelService>();
+builder.Services.AddSingleton<TextAnalysisPlugin>();
 
 var app = builder.Build();
 

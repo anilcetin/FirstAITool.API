@@ -21,6 +21,7 @@
   <ItemGroup>
     <ProjectReference Include="..\FirstAITool.API.Infrastructure\FirstAITool.API.Infrastructure.csproj" />
     <ProjectReference Include="..\FirstAITool.API.Application\FirstAITool.API.Application.csproj" />
+    <ProjectReference Include="..\FirstAITool.API.SemanticKernel\FirstAITool.API.SemanticKernel.csproj" />
   </ItemGroup>
 
 </Project>
