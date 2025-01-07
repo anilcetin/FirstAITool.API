@@ -1,7 +1,5 @@
 # Visual Studio files
 .vs/
-.vscode/
-*.suo
 *.user
 *.userosscache
 *.sln.docstates
@@ -14,6 +12,7 @@
 [Rr]eleases/
 x64/
 x86/
+[Ww][Ii][Nn]32/
 [Aa][Rr][Mm]/
 [Aa][Rr][Mm]64/
 bld/
@@ -62,11 +61,22 @@ artifacts/
 *.svclog
 *.scc
 
-# Visual Studio profiler
-*.psess
-*.vsp
-*.vspx
-*.sap
+# Visual Studio cache files
+# files ending in .cache can be ignored
+*.[Cc]ache
+# but keep track of directories ending in .cache
+!?*.[Cc]ache/
+
+# Others
+ClientBin/
+~$*
+*~
+*.dbmdl
+*.dbproj.schemaview
+*.jfm
+*.pfx
+*.publishsettings
+orleans.codegen.cs
 
 # ReSharper
 _ReSharper*/
@@ -122,28 +132,8 @@ rcf/
 # Microsoft Fakes
 FakesAssemblies/
 
-# Local development settings
-appsettings.Development.json
-appsettings.Local.json
-*.Development.json
-*.Local.json
+# Local History for Visual Studio
+.localhistory/
 
-# IDE specific files
-.idea/
-*.swp
-*.swo
-*.*~
-project.lock.json
-.DS_Store
-*.pyc
-
-# User-specific files
-*.rsuser
-*.suo
-*.user
-*.userosscache
-*.sln.docstates
-
-# Rider
-.idea/
-*.sln.iml 
+# Visual Studio History (VSHistory) files
+.vshistory/ 
