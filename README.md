@@ -144,7 +144,6 @@ _semanticKernelService.SetModel("azure-gpt4");
 await _semanticKernelService.ChatCompletionAsync("Hello!");
 ```
 
-
 ## Contributing
 
 1. Fork the repository
