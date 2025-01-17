@@ -153,9 +153,11 @@ await _semanticKernelService.ChatCompletionAsync("Hello!");
 5. Open a Pull Request
 
 ## License
+
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgments
+
 - [Semantic Kernel](https://github.com/microsoft/semantic-kernel)
 - [.NET](https://dotnet.microsoft.com/)
 - [Entity Framework Core](https://docs.microsoft.com/en-us/ef/core/) 
